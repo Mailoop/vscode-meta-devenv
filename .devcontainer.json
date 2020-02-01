@@ -1,5 +1,5 @@
 /* Contents of {repository-root}/.devcontainer/devcontainer.json */
 {
     // Run Bash script in .devcontainer directory
-    "image": "dockercore/docker",
+    "image": "dockercore/docker"
 }
